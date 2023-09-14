@@ -19,4 +19,4 @@ JDBC URL: jdbc:h2:mem:./betodb
 
 Usuario: sa
 
-Contraseña: (no tiene xd)
+Contraseña: ---No tiene
